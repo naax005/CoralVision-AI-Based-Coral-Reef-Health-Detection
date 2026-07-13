@@ -1,0 +1,7 @@
+torch
+torchvision
+flask
+pillow
+efficientnet-pytorch
+matplotlib
+PIL
